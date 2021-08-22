@@ -42,3 +42,4 @@ Running fake:
 Contributing
 ------
 Please have a look at the [guidelines](https://github.com/elmish/elmish/blob/master/.github/CONTRIBUTING.md).
+
